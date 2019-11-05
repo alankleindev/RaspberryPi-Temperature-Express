@@ -1,0 +1,26 @@
+{
+  "name": "RaspberryPi-Temperature-Express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sensorToFb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alankleindev/raspberrypi-temperature-express.git"
+  },
+  "keywords": [],
+  "author": "Alan Klein <alan@alanklein.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alankleindev/raspberrypi-temperature-express/issues"
+  },
+  "homepage": "https://github.com/alankleindev/raspberrypi-temperature-express#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.7.0",
+    "helmet": "^3.21.2"
+  }
+}
