@@ -19,7 +19,7 @@
   "homepage": "https://github.com/alankleindev/raspberrypi-temperature-express#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase-admin": "^8.7.0",
     "helmet": "^3.21.2"
   }
